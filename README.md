@@ -1,4 +1,4 @@
-[![MasterHead](https://reheader.glitch.me/)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pratik Pal</h1>
 <h3 align="center">A passionate frontend developer from West Bengal,India.</h3>
 
