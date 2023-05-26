@@ -25,21 +25,20 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&animation=spin&svgfill=ffffff&text=false">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&animation=spin&svgfill=f89820&text=false">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=FFE873&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=FFE873&text=false">
 </p>
+
 <p align="center">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&text=false">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=ffffff&text=false">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&animation=spin&svgfill=f89820&text=false">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=FFE873&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=FFE873&text=false">
 </p>
+
 <p align="center">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google&animation=spin&svgfill=15d8fe&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon&animation=spin&svgfill=ffffff&text=false">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=FFE873&text=false">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&animation=spin&svgfill=f89820&text=false">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apache&animation=spin&svgfill=FFE873&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=FFE873&text=false">
 </p>
 
 
