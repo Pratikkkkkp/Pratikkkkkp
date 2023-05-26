@@ -14,14 +14,12 @@
 <a href="https://instagram.com/pratikkkkkp" target="_blank" rel="nofollow"><img align="center" alt="Pratik's Insta"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikkkkkp&theme=dark&locale=en&layout=compact" alt="pratikkkkkp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikkkkkp&theme=dark&locale=en&layout=compact" alt="pratikkkkkp" /></p>
 
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pratikkkkkp&show_icons=true&,prs&cache_seconds=86400&theme=dark" width = 400>
+<p><img align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=pratikkkkkp&show_icons=true&,prs&cache_seconds=86400&theme=dark" width = 400></p>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=pratikkkkkp&theme=dark&" width = 400>
-</p>
+<p><img align="center"<img src = "https://github-readme-streak-stats.herokuapp.com?user=pratikkkkkp&theme=dark&" width = 400></p>
 
 
 
