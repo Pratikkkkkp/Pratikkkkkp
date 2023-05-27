@@ -11,9 +11,12 @@
 
 <p align="center">  
 <a href="https://linkedin.com/in/pratik-pal-207441199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/pratikkkkkp" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%4523698.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/pratikkkkkp" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%4523698.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
+<br><br><br>
 
-<!--<a href="palpratik420@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/whatsapp-D14836?style=for-the-badge&logo=whatsapp&logoColor=white" /></a</p>-->
+<h3 align="center">Contact me:</h3><br>
+<p align="center">
+<a href="palpratik420@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/palpratik420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
