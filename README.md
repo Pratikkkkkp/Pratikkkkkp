@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pratik Pal</h1>
-<h3 align="center">A passionate Web Developer from Kolkata,India.</h3>
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Pratik+Pal;A+Passionate+Web+Developer+from+India;Aspiring+Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=1000&height=100&duration=4500&pause=1000&size=40&color=659b60" alt="Intro"></h1>
+
+<!--<h1 align="center">Hi 👋, I'm Pratik Pal</h1>
+<h3 align="center">A passionate Web Developer from Kolkata,India.</h3>-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikkkkkp&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkkkkp" /> </p>
 
