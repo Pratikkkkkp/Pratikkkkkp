@@ -16,7 +16,7 @@
 
 <h3 align="center">Contact me:</h3><br>
 <p align="center">
-<a href="palpratik420@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/palpratik420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:palpratik420@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/palpratik420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
