@@ -11,7 +11,9 @@
 
 <p align="center">  
 <a href="https://linkedin.com/in/pratik-pal-207441199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/pratikkkkkp" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%4523698.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
+<a href="https://instagram.com/pratikkkkkp" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%4523698.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<!--<a href="palpratik420@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/whatsapp-D14836?style=for-the-badge&logo=whatsapp&logoColor=white" /></a</p>-->
 
 
 
@@ -38,10 +40,10 @@
 </p>
 
 <p align="center">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=323330&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&animation=spin&svgfill=4285F4&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&animation=spin&svgfill=FF0000&text=false">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=589636&text=false">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=f6df1c&text=false">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1&text=false&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=e34c26&text=false">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60&text=false&animation=spin">
 </p>
 <br><br><br>
 
@@ -68,13 +70,8 @@
 <br><br>
 <h2 align="center">Stats</h2>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikkkkkp&theme=dark&locale=en&layout=compact" alt="pratikkkkkp"  width = 400/></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikkkkkp&theme=bear&locale=en&layout=pie" alt="pratikkkkkp"  width = 400/></p><br>
 
-<p align="center"><img align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=pratikkkkkp&show_icons=true&,prs&cache_seconds=86400&theme=dark" width = 400></p><br>
+<p align="center"><img align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=pratikkkkkp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear" width = 400></p><br>
 
-<p align="center"><img align="center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=pratikkkkkp&theme=dark&" width = 400></p>
-
-
-
-
-
+<p align="center"><img align="center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=pratikkkkkp&theme=bear&" width = 400></p>
