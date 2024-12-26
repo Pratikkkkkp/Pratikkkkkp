@@ -19,7 +19,8 @@
 
 <h3 align="center">Contact me:</h3><br>
 <p align="center">
-<a href="mailto:pratikpal2025@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/palpratik420@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:pratikpal2025@gmail.com" target="_blank"><img alt="G-Mail" src="https://img.shields.io/badge/pratikpal2025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="tel://+917980119232" target="_blank"><img alt="Phone" src="https://img.shields.io/badge/+917980119232-%38c438?style=for-the-badge&logo=mobile&logoColor=white"></a>
 
 
 
