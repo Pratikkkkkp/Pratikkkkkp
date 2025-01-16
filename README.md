@@ -43,7 +43,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=e34c26&text=false">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=659b60&text=false&animation=spin">
 </p>
-<h2 align="center">Technical Skills</h2>
+<!--<h2 align="center">Technical Skills</h2>
 <p align="center"> 
 <img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=85&design=shine" />
 </p>
@@ -58,7 +58,7 @@
 </p>
 <p align="center"> 
 <img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=80&design=shine" />
-</p>
+</p>-->
 <h2 align="center">Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pratikkkkkp&theme=bear&locale=en&layout=compact" alt="pratikkkkkp"  width = 400/></p><br>
 <p align="center"><img align = "center"><img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pratikkkkkp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear" width = 400></p><br>
