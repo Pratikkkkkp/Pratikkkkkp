@@ -64,8 +64,11 @@
 <p align="center"> 
 <img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=80&design=shine" />
 </p>-->
+<h2 align="center">🏆 Trophies</h2>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pratikkkkkp&theme=alduin&title=-Followers" alt="pratikkkkkp"/></p>
+
 <h2 align="center">📊 Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pratikkkkkp&theme=bear&locale=en&layout=compact" alt="pratikkkkkp"  width = 400/></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pratikkkkkp&theme=bear&locale=en&layout=compact" alt="pratikkkkkp"  width = 400></p><br>
 <p align="center"><img align = "center"><img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pratikkkkkp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear" width = 400></p><br>
 <p align="center"><img align="center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=pratikkkkkp&theme=bear&" width = 400></p>
 <p align="center">
