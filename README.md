@@ -1,9 +1,5 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Pratik+Pal;A+Passionate+Web+Developer+from+India;Aspiring+Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=1000&height=100&duration=4500&pause=1000&size=40&color=659b60" alt="Intro"></h1>
-
-<!--<h1 align="center">Hi 👋, I'm Pratik Pal</h1>
-<h3 align="center">A passionate Web Developer from Kolkata,India.</h3>-->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikkkkkp&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkkkkp" /> </p>
 
 <h3 align="center">🚀 Check out my live projects</h3>
@@ -48,22 +44,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=e34c26&text=false">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=659b60&text=false&animation=spin">
 </p>
-<!--<h2 align="center">Technical Skills</h2>
-<p align="center"> 
-<img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=85&design=shine" />
-</p>
-<p align="center"> 
-<img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=90&design=shine" />
-</p>
-<p align="center"> 
-<img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=75&design=shine" />
-</p>
-<p align="center"> 
-<img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=PHP&value=80&design=shine" />
-</p>
-<p align="center"> 
-<img align="center" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=80&design=shine" />
-</p>-->
+
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pratikkkkkp&theme=alduin&title=-Followers" alt="pratikkkkkp"/></p>
 
