@@ -1,14 +1,11 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Pratik+Pal;A+Passionate+Web+Developer+from+India;Aspiring+Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=1000&height=100&duration=4500&pause=1000&size=40&color=659b60" alt="Intro"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikkkkkp&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkkkkp" /> </p>
-
 <h3 align="center">🚀 Check out my live projects</h3>
 <p align="center">
   Visit all my live projects <a href="https://pratikkkkkp.github.io" target="_blank"">here</a>.
 </p>
 <p align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-
-
 <h2 align="center">📫 Connect with me:</h2>
 
 <p align="center">  
@@ -21,7 +18,6 @@
 <a href="tel://+917980119232" target="_blank"><img alt="Phone" src="https://img.shields.io/badge/+917980119232-%38c438?style=for-the-badge&logo=mobile&logoColor=white"></a>
 
 <h2 align="center">🎖 Global Certifications:</h2>
-
 <p align="center"> <a href="https://www.credly.com/badges/b34d9962-24dc-4f31-b8c7-d62235fb7dbc/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="android" width="100" height="100"/> </a> </p>
 
 
